@@ -33,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/i dont like coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="i dont like coffee" /></a><a href="https://ko-fi.com/i dont drink coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="i dont drink coffee" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheshire137&show_icons=true&locale=en&layout=compact&theme=one_dark_pro&hide_border=true" alt="cheshire137" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiy0sh1&show_icons=true&locale=en&layout=compact&theme=one_dark_pro&hide_border=true" alt="Kiy0sh1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiy0sh1&theme=dark" alt="kiy0sh1" /></p>
